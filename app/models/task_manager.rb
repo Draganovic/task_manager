@@ -27,4 +27,12 @@ class TaskManager
     raw_tasks.map { |data| Task.new(data) }
   end
 
+  def raw_task(id)
+    raw_tasks.find { |task| task["id"] == id }
+  end
+
+  def find(id)
+    Task.new(raw_task(id))
+  end
+
 end

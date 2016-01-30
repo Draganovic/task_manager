@@ -9,4 +9,7 @@ tasks:
 - id: 3
   title: Make pizza
   description: Buy, defrost and bake.
-total: 3
+- id: 4
+  title: Drive car
+  description: Start and go
+total: 4
