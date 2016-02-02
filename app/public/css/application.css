@@ -1,1 +1,11 @@
+.greeting {
+  background-color:rgba(0, 50, 200, 0.4);
+  font-size: 25px;
+  border: 15px solid
+}
 
+body {
+  background: url(http://www.linkmesh2.com/scraper/data/alphacoders/Buffalo%20Wallpapers/310322.jpg);
+  background-size: cover;
+  text-align: center
+}
