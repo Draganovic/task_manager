@@ -4,6 +4,19 @@
   border: 15px solid
 }
 
+.page-header{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: hotpink;
+  width: 40%
+}
+
+.btn-large{
+  margin-top: 20px;
+  width: 100px
+}
+
 h1 span {
   background-color: red
 }

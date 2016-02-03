@@ -1,6 +1,6 @@
 ---
 tasks:
 - id: 1
-  title: Run a marathon
-  description: This would never happen
-total: 1
+  title: Run
+  description: now
+total: 5
